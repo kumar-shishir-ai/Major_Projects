@@ -1,0 +1,27 @@
+.st-key-predict button {
+    background-color: #2196F3 !important;
+    margin-left:40%;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-predict button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-predict button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}

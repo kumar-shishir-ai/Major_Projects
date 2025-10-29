@@ -45,4 +45,4 @@ Each project focuses on solving a real-world problem and demonstrates end-to-end
 **Shishir Kumar Palai**  
 🎓 B.Tech | Gandhi Academy of Technology and Engineering  
 💼 Aspiring Data Scientist / ML Engineer  
-🔗 [LinkedIn](https://www.linkedin.com/in/shishir-palai-11546a380?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By93olSKNQsSlvNWskfSwqg%3D%3D) | 💻 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/shishir-palai-11546a380?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By93olSKNQsSlvNWskfSwqg%3D%3D) | 💻 [GitHub](https://github.com/kumar-shishir-ai)
